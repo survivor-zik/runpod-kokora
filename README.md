@@ -1,1 +1,5 @@
-# Here is the Docker image link for the Kokora Image (Kokora)[https://hub.docker.com/repository/docker/survivorzik/runpod-kokora/general]
+## Kokora Docker Image
+
+You can find the Docker image for **Kokora** on Docker Hub:
+
+👉 [survivorzik/runpod-kokora](https://hub.docker.com/repository/docker/survivorzik/runpod-kokora/general)
